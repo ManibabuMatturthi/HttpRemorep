@@ -1,1 +1,10 @@
-This is a sample file to test the Comparision of the Actual Sync Operations from the Distributed repo..
+This is a sample file to test the Comparision of the Actual Sync Operations from the Distributed repo.. this is first Edit to check the neutral sync in local and distributed file repo....
+
+
+
+
+
+
+
+line edited in Local Repo:
+
