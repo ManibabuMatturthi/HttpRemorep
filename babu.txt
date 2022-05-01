@@ -1,1 +1,10 @@
 This is a sample file to test the Comparision of the Actual Sync Operations from the Distributed repo..
+
+
+
+
+I am gonna edited here to get the final Changes over the previous values to be changed.
+
+
+
+thanks for the remote repo
