@@ -6,13 +6,32 @@ This is a sample file to test the Comparision of the Actual Sync Operations from
 
 
 
+<<<<<<< HEAD
 
 
 
 i this is my special edit, I gonna edited here to get the final Changes over the previous values to be changed.
+=======
+
+
+
+
+
+line edited in Local Repo:
+
+
+I am gonna edited here to get the final Changes over the previous values to be changed.
+
 
 
 
 thanks for the remote repo
+
 removed the Conflicts.
+
+
+here I have Added the Additional Lines and checking to get some Changes to be done, hope that could be done now...`
+
+
+
 
