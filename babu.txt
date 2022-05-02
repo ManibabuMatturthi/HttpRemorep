@@ -2,21 +2,25 @@
 This is a sample file to test the Comparision of the Actual Sync Operations from the Distributed repo.. this is first Edit to check the neutral sync in local and distributed file repo....
 =======
 This is a sample file to test the Comparision of the Actual Sync Operations from the Distributed repo..
->>>>>>> cdde19714c09e09a2c70f72aeb896355f48ffe6d
 
 
 
 
-<<<<<<< HEAD
+
+
 
 
 
 line edited in Local Repo:
 
-=======
+
 I am gonna edited here to get the final Changes over the previous values to be changed.
 
 
 
 thanks for the remote repo
->>>>>>> cdde19714c09e09a2c70f72aeb896355f48ffe6d
+
+here I have Added the Additional Lines and checking to get some Changes to be done, hope that could be done now...`
+
+
+
